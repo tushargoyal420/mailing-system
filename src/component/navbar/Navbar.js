@@ -19,7 +19,7 @@ function Navbar() {
               <li className="nav-item"> <Link className="nav-link" to="/" > Home </Link> </li>
               <li className="nav-item"> <Link className="nav-link" to="/history" > History </Link> </li>
               <li className="nav-item"> <Link className="nav-link" to="/signin" > Sign In </Link> </li>
-              <li className="nav-item"> <Link className="btn btn-outline-success me-2" aria-current="page" to="/signup" > Sign Up </Link> </li>
+              <li className="nav-item"> <Link className="btn btn-outline-success me-2" to="/signup" > Sign Up </Link> </li>
             </ul>
           </div>
         </div>
